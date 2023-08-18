@@ -3,13 +3,13 @@ import "firebase/compat/firestore";
 
 // CS5356 TO-DO #0 Add your Firebase Config
 const config = {
-  apiKey: "AIzaSyCph_Ir8q0ML1zwv5z3WgyehGTIAcZNmD0",
-  authDomain: "bdsw-70360.firebaseapp.com",
-  projectId: "bdsw-70360",
-  storageBucket: "bdsw-70360.appspot.com",
-  messagingSenderId: "571077077953",
-  appId: "1:571077077953:web:79fde38621ab6d1d645d40",
-  measurementId: "G-LKJQGSLZ26"
+  apiKey: "AIzaSyDqRDpR4NVec0Q9Y7VdvtI4JsF7x-58STc",
+  authDomain: "vacation-planner-8137d.firebaseapp.com",
+  projectId: "vacation-planner-8137d",
+  storageBucket: "vacation-planner-8137d.appspot.com",
+  messagingSenderId: "517959539833",
+  appId: "1:517959539833:web:5c89b35189ca912d6508a8",
+  measurementId: "G-305LKH0GNN"
 };
 
 // CS5356 TO-DO #0 Uncomment these 2 lines after
