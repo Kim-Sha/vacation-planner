@@ -1,0 +1,50 @@
+{
+  "name": "react-firebaseui-template",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@mapbox/mapbox-gl-geocoder": "^5.0.1",
+    "firebase": "^9.20.0",
+    "firebaseui": "^6.0.2",
+    "mapbox-gl": "^2.14.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-error-overlay": "6.0.9",
+    "react-firebaseui": "^6.0.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "not safari < 10",
+      "not chrome < 51",
+      "not android < 5",
+      "not ie < 12"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [],
+  "description": ""
+}
